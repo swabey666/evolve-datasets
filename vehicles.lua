@@ -1,7 +1,7 @@
 local M = {}
 
-M.version = 1.1
-M.updated_date = "2025-07-27"
+M.version = 1.3
+M.updated_date = "2025-10-27"
 M.vehicles = {
     -->> Default GTA vehicles
         [400] = { name = "Landstalker" },
@@ -361,7 +361,20 @@ M.vehicles = {
         [12635] = { name = "Xpeng P7" },
         [12636] = { name = "Cadillac Escalade 5" },
         [12637] = { name = "Tesla Cybertruck" },
-        [12638] = { name = "Ford E250 Ambulance" }
+        [12638] = { name = "Ford E250 Ambulance" },
+        [12639] = { name = "Chevrolet Express" },
+        [12640] = { name = "Ferrari LaFerrari" },
+        [12641] = { name = "Burrito New" },
+        [12642] = { name = "BMW X6 M competition" },
+        [12643] = { name = "Audi RS Q8" },
+        [12644] = { name = "Audi RS 6 Ñ8" },
+        [12645] = { name = "FBI Audi RS 6 Ñ8" },
+        [12646] = { name = "Ford F150 Raptor" },
+        [12647] = { name = "Mitsubishi Lancer Evolution X" },
+        [12648] = { name = "Dodge Viper ACR" },
+        [12649] = { name = "BMW M5 F10" },
+        [12650] = { name = "MD 902 Explorer" },
+        [12651] = { name = "Agusta A.109" }
 }
 
 return M
