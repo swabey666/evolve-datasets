@@ -1,7 +1,7 @@
 local M = {}
 
-M.version = 1.3
-M.updated_date = "2025-09-12"
+M.version = 1.4
+M.updated_date = "2025-11-17"
 M.skins = {
     [0] = { name = 'Carl "CJ" Johnson', fraction = "Гражданский" },
     [1] = { name = 'The Truth', fraction = "Гражданский" },
@@ -381,7 +381,12 @@ M.skins = {
     [13962] = { name = "Vito Scaletta", fraction = "Гражданский" },
     [13963] = { name = "Joe Barbaro", fraction = "Гражданский" },
     [13964] = { name = "Henry Watterson", fraction = "News" },
-    [13965] = { name = "Barbara Walters", fraction = "News" }
+    [13965] = { name = "Barbara Walters", fraction = "News" },
+    [13966] = { name = "Jesus Ortiz", fraction = "Vagos" },
+    [13967] = { name = "Kelon Rice", fraction = "Ballas" },
+    [13968] = { name = "Hector Lopez", fraction = "Aztec" },
+    [13969] = { name = "Leroy Green", fraction = "Grove" },
+    [13969] = { name = "Raul Morales", fraction = "Rifa" },
 }
 
 return M
