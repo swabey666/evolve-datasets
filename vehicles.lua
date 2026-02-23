@@ -1,7 +1,7 @@
 local M = {}
 
-M.version = 1.3
-M.updated_date = "2025-10-27"
+M.version = 1.4
+M.updated_date = "2026-02-23"
 M.vehicles = {
     -->> Default GTA vehicles
         [400] = { name = "Landstalker" },
@@ -374,7 +374,7 @@ M.vehicles = {
         [12648] = { name = "Dodge Viper ACR" },
         [12649] = { name = "BMW M5 F10" },
         [12650] = { name = "MD 902 Explorer" },
-        [12651] = { name = "Agusta A.109" }
+        [12651] = { name = "BMW M4 GT3 G82" }
 }
 
 return M
