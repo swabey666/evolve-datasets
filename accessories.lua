@@ -1,7 +1,7 @@
 local M = {}
 
-M.version = 1.2
-M.updated_date = "2025-10-29"
+M.version = 1.3
+M.updated_date = "2026-02-23"
 M.accessories = {
     [18944] = { name = 'Ретро шляпа 1', eng_name = 'Lava Hat' },
     [18945] = { name = 'Ретро шляпа 2', eng_name = 'Green Hat' },
@@ -858,6 +858,25 @@ M.accessories = {
     [12320] = { name = "Цепь с котенком на шею", eng_name = "Cat chain" },
     [12321] = { name = "Золотая цепочка", eng_name = "The Golden Chain" },
     [12322] = { name = "Цепочка с крестом", eng_name = "A chain with a cross" },
+    [12345] = { name = "Игрушка на плечо «Рыцарь»", eng_name = "A Knight Shoulder Toy" },
+    [12346] = { name = "Игрушка на плечо «Ким Чен Ын»", eng_name = "Kim Jong un" },
+    [12350] = { name = "Маска череп в шапке", eng_name = "Skull mask in a hat" },
+    [12355] = { name = "Курительная трубка", eng_name = "Smoking Pipe" },
+    [12356] = { name = "Бандитские очки", eng_name = "Thug Glasses" },
+    [12357] = { name = "Игрушка на плечо «Бэтмен Функо»", eng_name = "Funko Batman" },
+    [12360] = { name = "Киберпанк сковородка", eng_name = "Cyberpunk Pan" },
+    [12364] = { name = "Рюкзак лабубу", eng_name = "Labuba backpack" },
+    [12366] = { name = "Меч Арондит", eng_name = "The Arondite Sword" },
+    [12367] = { name = "Игрушка на плечо «Мастер Шифу»", eng_name = "Master Shifu" },
+    [12369] = { name = "Меч Зираэль", eng_name = "Zireael sword" },
+    [12370] = { name = "Игрушка на плечо «Малыш Йода»", eng_name = "Baby Yoda" },
+    [12372] = { name = "Красная коробка с подарком", eng_name = "Red gift box" },
+    [12373] = { name = "Белая коробка с подарком", eng_name = "White gift box" },
+    [12375] = { name = "Бронежилет Эвольв", eng_name = "Evolve Vest" },
+    [12379] = { name = "Маска Кори Тейлора", eng_name = "Corey Taylor Mask" },
+    [12388] = { name = "Шапка Акула", eng_name = "Hat Shark" },
+    [12390] = { name = "Военный бронежилет", eng_name = "Armor War" },
+    [12393] = { name = "Балаклава Кошка", eng_name = "Balaclava Cat" }
 }
 
 return M
