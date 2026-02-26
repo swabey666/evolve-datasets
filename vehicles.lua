@@ -1,7 +1,7 @@
 local M = {}
 
-M.version = 1.4
-M.updated_date = "2026-02-23"
+M.version = 1.5
+M.updated_date = "2026-02-26"
 M.vehicles = {
     -->> Default GTA vehicles
         [400] = { name = "Landstalker" },
@@ -373,8 +373,12 @@ M.vehicles = {
         [12647] = { name = "Mitsubishi Lancer Evolution X" },
         [12648] = { name = "Dodge Viper ACR" },
         [12649] = { name = "BMW M5 F10" },
-        [12650] = { name = "MD 902 Explorer" },
-        [12651] = { name = "BMW M4 GT3 G82" }
+        [12650] = { name = "BMW XM G09" },
+        [12651] = { name = "BMW M4 GT3 G82" },
+        [12652] = { name = "Honda NSX" },
+        [12653] = { name = "Mini Cooper JCW GP" },
+        [12654] = { name = "Mercedes-Benz GLS X167" },
+        [12655] = { name = "Toyota Land Cruiser Prado J150" }
 }
 
 return M
