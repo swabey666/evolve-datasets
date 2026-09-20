@@ -1,7 +1,7 @@
 local M = {}
 
-M.version = 1.5
-M.updated_date = "2026-02-26"
+M.version = 1.9
+M.updated_date = "2026-09-20"
 M.vehicles = {
     -->> Default GTA vehicles
         [400] = { name = "Landstalker" },
@@ -291,7 +291,7 @@ M.vehicles = {
         [12565] = { name = "ÂÀÇ 2112" },
         [12566] = { name = "ÂÀÇ 2106" },
         [12567] = { name = "Renault Logan" },
-        [12568] = { name = "Mercedes-Benz S600 W140" },
+        [12568] = { name = "Mercedes-Benz S600 w140" },
         [12569] = { name = "BMW M4 G82" },
         [12570] = { name = "Dodge Challenger SRT Hellcat" },
         [12571] = { name = "Volkswagen Scirroco" },
@@ -307,7 +307,7 @@ M.vehicles = {
         [12581] = { name = "Jeep Grand Cherokee" },
         [12582] = { name = "Chevrolet Corvette ZR1" },
         [12583] = { name = "Porsche Cayenne Turbo GT" },
-        [12584] = { name = "Toyota Land Cruiser" },
+        [12584] = { name = "Toyota Land Cruiser 200" },
         [12585] = { name = "Nissan Fairlady Z" },
         [12586] = { name = "BMW M5 E60" },
         [12587] = { name = "Mercedes-Benz CLS63 AMG w218" },
@@ -338,17 +338,17 @@ M.vehicles = {
         [12612] = { name = "LiXiang L9" },
         [12613] = { name = "BMW M3 G81" },
         [12614] = { name = "Mercedes-Benz E63S W213" },
-        [12615] = { name = "Toyota Mark2 jzx100" },
+        [12615] = { name = "Toyota Mark2 JZX100" },
         [12616] = { name = "Jeep Wrangler" },
         [12617] = { name = "Mercedes-Benz Vito w447" },
         [12618] = { name = "Porsche 918 Spyder" },
         [12619] = { name = "Mercedes-Benz SL63 AMG" },
         [12620] = { name = "Mercedes GLS" },
-        [12621] = { name = "BMW 7 long" },
-        [12622] = { name = "Ford f150 raptor 2 door" },
+        [12621] = { name = "BMW 7 Long" },
+        [12622] = { name = "Ford F150 Raptor 2 Door" },
         [12623] = { name = "Porsche 911 (964)" },
         [12624] = { name = "Rolls-Royce Wraith" },
-        [12625] = { name = "Infiniti q60" },
+        [12625] = { name = "Infiniti Q60" },
         [12626] = { name = "Volvo XC90 T6" },
         [12627] = { name = "Ford Focus 3" },
         [12628] = { name = "Alfa Romeo Giulia" },
@@ -365,7 +365,7 @@ M.vehicles = {
         [12639] = { name = "Chevrolet Express" },
         [12640] = { name = "Ferrari LaFerrari" },
         [12641] = { name = "Burrito New" },
-        [12642] = { name = "BMW X6 M competition" },
+        [12642] = { name = "BMW X6 M Competition" },
         [12643] = { name = "Audi RS Q8" },
         [12644] = { name = "Audi RS 6 Ñ8" },
         [12645] = { name = "FBI Audi RS 6 Ñ8" },
@@ -378,7 +378,26 @@ M.vehicles = {
         [12652] = { name = "Honda NSX" },
         [12653] = { name = "Mini Cooper JCW GP" },
         [12654] = { name = "Mercedes-Benz GLS X167" },
-        [12655] = { name = "Toyota Land Cruiser Prado J150" }
+        [12655] = { name = "Toyota Land Cruiser Prado J150" },
+        [12656] = { name = "Mercedes-Benz 190 E Evolution II" },
+        [12657] = { name = "Brabus Rocket GTS" },
+        [12658] = { name = "Kamaz Dakar" },
+        [12659] = { name = "Mercedes-Benz SL65 AMG" },
+        [12660] = { name = "Mercedes-Benz SLR McLaren" },
+        [12661] = { name = "Lamborghini Centenario" },
+        [12662] = { name = "Bugatti W16 Mistral" },
+        [12663] = { name = "Sikorsky MH-53" },
+        [12664] = { name = "Mercedes-Benz G63 6X6" },
+        [12665] = { name = "Volvo EM90" },
+        [12666] = { name = "Toyota Tacoma TRD PRO" },
+        [12667] = { name = "Ford Mustang 2024" },
+        [12668] = { name = "Porsche 911 GT3" },
+        [12670] = { name = "Brabus 700 AMG E53" },
+        [12671] = { name = "Brabus 730 AMG C63" },
+        [12672] = { name = "Audi RS5 2026" },
+        [12673] = { name = "Porsche Taycan 4S ST" },
+        [12674] = { name = "Cadillac Escalade IQ" },
+        [12675] = { name = "Toyota Tacoma TRD Police" }
 }
 
 return M
